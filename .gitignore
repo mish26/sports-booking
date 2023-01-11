@@ -3,3 +3,4 @@
 /view/
 /static/
 *.html
+cmd/config/.env
